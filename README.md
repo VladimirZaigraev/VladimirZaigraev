@@ -3,3 +3,4 @@
 <h3 align="center">Frontend developer from Russia</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirZaigraev&layout=compact)](https://github.com/VladimirZaigraev/github-readme-stats)
+[![codewars](https://www.codewars.com/users/VladimirZaigraev/badges/small)](https://www.codewars.com/users/VladimirZaigraev)
