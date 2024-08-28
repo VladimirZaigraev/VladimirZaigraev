@@ -25,8 +25,5 @@
 </div>
 <h2 align="center">My stats </h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirZaigraev)](https://github.com/VladimirZaigraev/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirZaigraev&layout=compact)](https://github.com/VladimirZaigraev/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/VladimirZaigraev/badges/small)](https://www.codewars.com/users/VladimirZaigraev)
