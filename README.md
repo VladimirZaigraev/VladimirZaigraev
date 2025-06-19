@@ -5,10 +5,6 @@
 
 👨‍🎓 I love to learn and share knowledge. I believe that it's never too late to learn 
 
-✍ I try to write clean and readable code
-
-🤟 I dream of working in a large team on a complex application
-
 🚲 I love traveling and biking. My dream is to go on a bicycle trip in the Altai
 
 <h2 align="center">My stack </h2>
